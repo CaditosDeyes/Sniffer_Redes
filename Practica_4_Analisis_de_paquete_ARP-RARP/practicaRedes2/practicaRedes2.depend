@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663687506 source:/home/juan/Documentos/UNIVERSIDAD/4/Seminario de Redes/practicaRedes2/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<math.h>
+
