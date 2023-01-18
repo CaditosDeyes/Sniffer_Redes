@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1668704144 source:c:\users\casa\desktop\programas_redes\proyecto\prueba pcap\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<math.h>
+	<bits/stdc++.h>
+
+1254892804 c:\program files\codeblocks\archivos pcap\include\pcap.h
+	<pcap/pcap.h>
+
+1277473464 c:\program files\codeblocks\archivos pcap\include\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254892804 c:\program files\codeblocks\archivos pcap\include\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254892804 c:\program files\codeblocks\archivos pcap\include\bittypes.h
+
+1254892798 c:\program files\codeblocks\archivos pcap\include\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254892804 c:\program files\codeblocks\archivos pcap\include\pcap\bpf.h
+
+1155158218 c:\program files\codeblocks\archivos pcap\include\win32-extensions.h
+
+1190907136 c:\program files\codeblocks\archivos pcap\include\remote-ext.h
+
+1668704146 source:c:\users\jc_av\documents\universidad\4\seminario de redes\práctica redes\proyecto\prueba pcap\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<math.h>
+	<bits/stdc++.h>
+
+1254892804 c:\program files\codeblocks\wpdpack\include\pcap.h
+	<pcap/pcap.h>
+
+1277473464 c:\program files\codeblocks\wpdpack\include\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254892804 c:\program files\codeblocks\wpdpack\include\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254892804 c:\program files\codeblocks\wpdpack\include\bittypes.h
+
+1254892798 c:\program files\codeblocks\wpdpack\include\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254892804 c:\program files\codeblocks\wpdpack\include\pcap\bpf.h
+
+1155158218 c:\program files\codeblocks\wpdpack\include\win32-extensions.h
+
+1190907136 c:\program files\codeblocks\wpdpack\include\remote-ext.h
+
