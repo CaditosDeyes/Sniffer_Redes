@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666057600 source:c:\users\jc_av\documents\universidad\4\seminario de redes\práctica redes\practica\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<math.h>
+
